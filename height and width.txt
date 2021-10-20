@@ -1,0 +1,6 @@
+image:
+w:704px
+h:653px
+video:
+w:503px
+h:480px
